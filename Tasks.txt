@@ -1,0 +1,3 @@
+Taak1	vrijdag 8 mei 2020 11:30:00	5	
+Taak2	vrijdag 8 mei 2020 11:45:00	10
+Taak3	vrijdag 8 mei 2020 12:00:00	15
